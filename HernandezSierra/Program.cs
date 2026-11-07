@@ -3,7 +3,7 @@ using HernandezSierra;
 Personaje jugador = new Personaje();
 
 jugador.Nombre = "Ignacio";
-jugador.Vida = Muchisima;
+jugador.Vida = 100;
 jugador.Ataque = 20;
 jugador.Defensa = 10;
 jugador.Nivel = 1;
